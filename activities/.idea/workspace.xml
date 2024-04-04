@@ -5,40 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd8aa6a2-73cf-4619-87d7-a77fe84a7717" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/PaintJob.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/SortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/Wall/Wall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/Wall/WallMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/carpetcostcalculator/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/carpetcostcalculator/Carpet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/carpetcostcalculator/Floor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/carpetcostcalculator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/complexoperations/ComplexNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/complexoperations/ComplexNumberMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/composition/Bed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/composition/Bedroom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/composition/Ceiling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/composition/Lamp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/composition/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/composition/Wall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/cylinder/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/cylinder/Cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/cylinder/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/minimumelement/MinimumElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/person/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/person/PersonMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/point/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/point/PointMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/polymorphism/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/polymorphism/Ford.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/polymorphism/Holden.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/polymorphism/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/polymorphism/Mitsubishi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/poolarea/Cuboid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/poolarea/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/poolarea/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/simplecalculator/SimpleCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/simplecalculator/SimpleCalculatorMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/abstractclass/ListItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/abstractclass/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/abstractclass/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/abstractclass/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/abstractclass/NodeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/abstractclass/SearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/adventuregame/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/adventuregame/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/bank/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/bank/Branch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/bank/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/bank/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/mobilephone/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/mobilephone/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/mobilephone/MobilePhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/playlist/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/playlist/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/playlist/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/playlistinnerclass/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/playlistinnerclass/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/playlistinnerclass/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/reversearray/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/simpleinterface/ISaveable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/simpleinterface/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/simpleinterface/Monster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jtj/simpleinterface/Player.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +41,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -98,16 +91,22 @@
     "Application.PersonMain.executor": "Run",
     "Application.PlayingCat.executor": "Run",
     "Application.PointMain.executor": "Run",
+    "Application.ReverseArray.executor": "Run",
     "Application.SharedDigit.executor": "Run",
     "Application.SimpleCalculatorMain.executor": "Run",
     "Application.SortedArray.executor": "Run",
     "Application.SumOddRange.executor": "Run",
     "Application.TeenNumberChecker.executor": "Run",
     "Application.WallMain.executor": "Run",
+    "Application.org.jtj.abstractclass.Main.executor": "Run",
+    "Application.org.jtj.bank.Main.executor": "Run",
     "Application.org.jtj.composition.Main.executor": "Run",
     "Application.org.jtj.cylinder.Main.executor": "Run",
+    "Application.org.jtj.playlist.Main.executor": "Run",
+    "Application.org.jtj.playlistinnerclass.Main.executor": "Run",
     "Application.org.jtj.polymorphism.Main.executor": "Run",
     "Application.org.jtj.poolarea.Main.executor": "Run",
+    "Application.org.jtj.simpleinterface.Main.executor": "Run",
     "Application.positivenegativezero.executor": "Run",
     "Application.speedconverter.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -115,16 +114,22 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/JIMMYMSI/Desktop/Java-Masterclass-Activity/activities/src/main/java/org/jtj/playlistinnerclass",
     "onboarding.tips.debug.path": "C:/Users/JIMMYMSI/Desktop/Java-Masterclass-Activity/activities/src/main/java/org/jtj/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MinimumElement">
-    <configuration name="MinimumElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.jtj.minimumelement.MinimumElement" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\JIMMYMSI\Desktop\Java-Masterclass-Activity\activities\src\main\java\org\jtj\playlistinnerclass" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.jtj.adventuregame.Main" />
       <module name="activities" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.jtj.minimumelement.*" />
+          <option name="PATTERN" value="org.jtj.adventuregame.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.jtj.SortedArray" />
+    <configuration name="org.jtj.abstractclass.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.jtj.abstractclass.Main" />
       <module name="activities" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.jtj.*" />
+          <option name="PATTERN" value="org.jtj.abstractclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.jtj.composition.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.jtj.composition.Main" />
+    <configuration name="org.jtj.bank.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.jtj.bank.Main" />
       <module name="activities" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.jtj.composition.*" />
+          <option name="PATTERN" value="org.jtj.bank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,12 +163,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.jtj.polymorphism.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.jtj.polymorphism.Main" />
+    <configuration name="org.jtj.playlistinnerclass.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.jtj.playlistinnerclass.Main" />
       <module name="activities" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.jtj.polymorphism.*" />
+          <option name="PATTERN" value="org.jtj.playlistinnerclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,12 +176,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.jtj.poolarea.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.jtj.poolarea.Main" />
+    <configuration name="org.jtj.simpleinterface.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.jtj.simpleinterface.Main" />
       <module name="activities" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.jtj.poolarea.*" />
+          <option name="PATTERN" value="org.jtj.simpleinterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MinimumElement" />
-        <item itemvalue="Application.SortedArray" />
-        <item itemvalue="Application.org.jtj.polymorphism.Main" />
-        <item itemvalue="Application.org.jtj.composition.Main" />
-        <item itemvalue="Application.org.jtj.poolarea.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.org.jtj.playlistinnerclass.Main" />
+        <item itemvalue="Application.org.jtj.simpleinterface.Main" />
+        <item itemvalue="Application.org.jtj.abstractclass.Main" />
+        <item itemvalue="Application.org.jtj.bank.Main" />
       </list>
     </recent_temporary>
   </component>
